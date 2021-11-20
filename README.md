@@ -9,4 +9,4 @@
 
 ## Game in action
 
-<img src="./mario-game-basic-play.gif" width="100" height="100" />
+![Game Simulation](https://github.com/Kunjan-Shah/mario-game-basic/edit/main/mario-game-basic-play.gif)
