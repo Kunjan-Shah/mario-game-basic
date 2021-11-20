@@ -8,7 +8,7 @@
  - If you collide with the Turtle `GAME OVER`
 
 ## URL
-`![Mario-game](https://optimistic-goodall-c850fc.netlify.app/)`
+[Mario-game](https://optimistic-goodall-c850fc.netlify.app/)
 
 ## Game in action
 
