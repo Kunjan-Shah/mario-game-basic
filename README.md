@@ -9,4 +9,4 @@
 
 ## Game in action
 
-![Game Simulation](https://github.com/Kunjan-Shah/mario-game-basic/edit/main/mario-game-basic-play.gif)
+![Game Simulation](./mario-game-basic-play.gif)
