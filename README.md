@@ -2,12 +2,11 @@
 
 ## Description
  - A fun Mario-like game with simple UI
- - ![#ff0000]`Mario`(blue) has to save the Princess(green) 
+ - Mario(blue) has to save the Princess(green) by dodging the Turtle(red)
+ - Use ⬅️ and ➡️ to move Mario
+ - More challenging Turtle appears after each level
+ - If you collide with the Turtle `GAME OVER`
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
+## Game in action
+
+<img src="./mario-game-basic-play.gif" width="100" height="100" />
